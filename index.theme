@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Django Lock
+Type=X-GNOME-Metatheme
+Comment=Theme Django for GNOME
+Author= Thiago Avelino <thiagoavelinoster@gmail.com>
+
+[X-GNOME-Metatheme]
+GtkTheme=Clearlooks
+MetacityTheme=Inverted
+IconTheme=Humanity-Dark
+GtkColorScheme=fg_color:#000000000000,bg_color:#ededececebeb,text_color:#1a1a1a1a1a1a,base_color:#ffffffffffff,selected_fg_color:#ffffffffffff,selected_bg_color:#0000534b3465,tooltip_fg_color:#000000000000,tooltip_bg_color:#f5f5e5e5b5b5
+CursorTheme=DMZ-Black
+CursorSize=24
+NotificationTheme=ubuntu
