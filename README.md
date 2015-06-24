@@ -1,2 +1,5 @@
-# Django-Lock
-GTK 2.x Theme
+# Description
+Theme Django for GNOME
+
+# Credits to
+[avelino](http://gnome-look.org/usermanager/search.php?username=avelino)
